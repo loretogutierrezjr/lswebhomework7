@@ -4,9 +4,9 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array - way to store a list of items(ex. cats, dogs, horses, cows, etc.).
+	* Object - stores named values(ex. if the object is a cat, you could store breed, eye color, coat color, etc.).
+	* Method - actions performed on the objects.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
